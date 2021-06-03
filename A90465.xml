@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect diurnall of the severall passages in our late journey into Kent, from Aug. 19 to Sept. 3. 1642. By the appointment of both Houses of Parliament. Published for the satisfaction of those who desire true information.</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90465</idno><idno type="EEBO-CITATION">99860331</idno>
+  <idno type="VID">112451</idno>
+  <idno type="EEBO-PROQUEST">2240879983</idno>
+  
+            <idno type="STC">Wing P1488</idno>
+            <idno type="STC">Thomason E116_33</idno>
+            <idno type="STC">ESTC R18041</idno>
+            <idno type="PROQUEST">99860331</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860331e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90465)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112451)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E116[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect diurnall of the severall passages in our late journey into Kent, from Aug. 19 to Sept. 3. 1642. By the appointment of both Houses of Parliament. Published for the satisfaction of those who desire true information.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Thomason Coll.</note>
+                  <note>Annotation on Thomason copy: "Sep: 10th 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Kent (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:112451:1"/>
+            <head>A perfect Diurnall of the severall pas<g ref="char:EOLhyphen"/>sages in our late journey into Kent, from <hi>Aug. 19.</hi> to <hi>Sept. 3. 1642.</hi> By the appoint<g ref="char:EOLhyphen"/>ment of both Houses of Parliament. Published for the satisfaction of those who desire true Information.</head>
+            <div type="part">
+               <p>UPon the nineteenth of <hi>August,</hi> 1642. being <hi>Fri<g ref="char:EOLhyphen"/>day,</hi> late at evening, there met at <hi>Moore-ditch</hi> some 200. Troopers well horsed, and every man fur<g ref="char:EOLhyphen"/>nished with Armour and Carbines, and some 300. or thereabouts of Dragoneers, all under the command of Colonel <hi>Sands,</hi> Generall of the Army for that ex<g ref="char:EOLhyphen"/>pedition, Sir <hi>Jahn Seatone,</hi> Sir <hi>Miles Lucy,</hi> and Captain <hi>Lee,</hi> being Commissioners or Counsellers, together with Col: <hi>Sands,</hi> for the ordering and appointing of the souldiers their severall and particular services, ac<g ref="char:EOLhyphen"/>cording to the place, time and persons appointed by them to goe, as they received instructions, and power from the Parliament for the peace and safety of the whole Kingdome.</p>
+               <p>We marched all Friday night, and Saterday mor<g ref="char:EOLhyphen"/>ning, and rested not till we came to <hi>Dartford,</hi> which was about eight of the clock in the morning, where we baited 2. or 3. houres. After that time when we were gathered together by the sound of a Trumpet, we advanced forward in our journey untill we came to the way which turned to <hi>Cobham-hall:</hi> Then the Colonel chose out some Dragooners to search <hi>Cob<g ref="char:EOLhyphen"/>ham-hall,</hi>
+                  <pb n="2" facs="tcp:112451:2"/> for we heard they were mightily provided against: Yet this nothing at all disheartned us, but we (making all ready for our own defence, and the safety of the <hi>King</hi> and <hi>Parliament,</hi> whose service we went about) marched forwards until we came to the place: when we were come, the Lady through feare sent out word to us, that we should have the Magazine delive<g ref="char:EOLhyphen"/>red unto us, which when we had it, we loaded 5. wag<g ref="char:EOLhyphen"/>gons, and sent them to London, and took three war-horses.</p>
+               <p>When our company the same day was thus divi<g ref="char:EOLhyphen"/>ded, the rest advanced forwards, untill we came to <hi>Strood,</hi> neer <hi>Rochester,</hi> where we heard of great prepa<g ref="char:EOLhyphen"/>rations making against us, then we had command with all speed to make ready for our own defence, at which preparation one of our souldiers pistols acci<g ref="char:EOLhyphen"/>dentally went off, and shot his fellow quite through, Armour and all, and hurt another, which we beleeve was the occasion of a false report sent to London, that halfe our company were slaine.</p>
+               <p>And when we had prepared our selves by way of defence, then the Col: divided our company, one part for <hi>Rochester bridge,</hi> where we did expect a pitcht battail by all relations, we meeting divers of the Gen<g ref="char:EOLhyphen"/>try with their wives behind them on horseback, as we conceived for feare of the skirmish. Then came out Col: <hi>Sands</hi> from the parlie which he had with some of the Magistrates, saying to his Captains, There is no way but one, Win it and weare it, make ready fellow souldiers. The Captains demanded which should goe forward, whereupon the Col: comman<g ref="char:EOLhyphen"/>ded about 40. Dragoons to goe first, and some Troo<g ref="char:EOLhyphen"/>pers to follow after, but the businesse was quickly en<g ref="char:EOLhyphen"/>ded,
+<pb n="3" facs="tcp:112451:2"/> the bridge yeelded up &amp; unchained. When this was done, our Col: commanded centinel to be kept upon the bridge, to keep any from passing to and fro, but such as could give a just account whither they went. Now while centinel was thus strictly kept, the Lord <hi>Roper</hi> (which for the present was both unknown and unexpected, though in time convenient was intended to be sought after) came in his Coach with his Lady and other Gentlewo<g ref="char:EOLhyphen"/>men, and a Sumpter-horse following the Coach, both which were commanded to stand, and stay the Colonels pleasure, untill he came from <hi>Upnall Castle,</hi> which was 3. miles from Rochester, for after he had set centinel upon the bridge, he went with the rest of the Troops and Dra<g ref="char:EOLhyphen"/>gooners to take possession of the Castle. When he came, we found no great shevv of resistance, for those who usually attended the Captain for defence of the Castle, were most or all of them forth at harvest; when they heard news of our comming, they made haste to come in, but it was too late, for we stopped them by the way. The Colonel marched up to the gate of the Castle with some few men to enter in, none daring to resist. We took possession of the Castle, which stood close by the sea side, (the Captain was playing at bowls) and left a suffi<g ref="char:EOLhyphen"/>cient guard to keep it. Then we took possession of the For<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd left a sufficient guard there, and then returned back to <hi>Rochester,</hi> and entred the City with peace, and took with us the Lord <hi>Roper,</hi> and lodged him at the Crown, with a strong guard day and night. But before we were discharged from the service of that day, we went with our Col: to take possession of <hi>Chattam Dock,</hi> where the Kingdomes store-house is; in which place lyeth some 300. Peeces of Ordnance, 60. whereof are brasse Peeces, besides 30. or 40. peeces of Ordn. which are at <hi>Vpnall Castle.</hi> The Ammunition which is in the
+<pb n="4" facs="tcp:112451:3"/> store-house was to be conveyed away that night, if we had not then taken possession of it. Some of us were con<g ref="char:EOLhyphen"/>strained to watch all that night, though we travailed all the night before. But such was the love of those who li<g ref="char:EOLhyphen"/>ved in <hi>Chattam,</hi> manifested to us, that they brought great store of food to us, in such plenty, as served us the next day after, and would not suffer us to pay for it, &amp; made us very welcome so long as we stayed, &amp; were very sor<g ref="char:EOLhyphen"/>ry when we went away. We cannot say we found such love in <hi>Rochester,</hi> they both not being far distant one frō the other.</p>
+               <p>
+                  <hi>Now here we are to give the Reader to understand, that up<g ref="char:EOLhyphen"/>on a false report which was carryed to London concerning half our company being slaine, Captaine</hi> Browne <hi>and some of his company came after that work was done to help us on Saterday night, and Capt.</hi> Chapman <hi>and some of his company came the night after them, and Cap.</hi> Banes, <hi>&amp; many other of our friends came to see us, for which we are much obliged to them for their care of us, and love to us, in that they came to put their shoul<g ref="char:EOLhyphen"/>ders to the work with us.</hi>
+               </p>
+               <trailer>This is our first dayes proceedings.</trailer>
+            </div>
+            <div type="part">
+               <p>On Munday being the 22. of the same month, some of our company by the command of our Col: sallied forth to search the house of Master <hi>Littleboy,</hi> his wife &amp; daugh<g ref="char:EOLhyphen"/>ter being Recusants, some of our souldiers (after they had searched the lower part of the house) went up to the highest place of one part of it, and there they found the place where Mrs. <hi>Littleboy</hi> and her daughter worshiped the picture of the Queen of heaven, and the Crucifixe, which was pictured upon the rafters of the house, for it vvas not seiled, vvhich pictures they took avvay, vvith some other Popish books, and broke dovvn their Altar: but we found no Ammunition nor money. We searched up and dovvn for vaults and caves, but found none. After
+<pb n="5" facs="tcp:112451:3"/> a little time of discourse vvith her daughter, vve finding none else but she in the house, and some fevv servants, when vve had refreshed our selves with vvhat their free gift vvas now to bestovv upon as, vve peaceably de<g ref="char:EOLhyphen"/>parted.</p>
+               <p>On Tuesday morning vve guarded the Lord <hi>Roper</hi> from the Crowne at <hi>Rochester</hi> to <hi>Vpnall</hi> Castle, and there left him w<seg rend="sup">th</seg> a strong guard of a roote company which came on munday from <hi>London</hi> to <hi>Rochester;</hi> which being done, we all being mounted, marched after our Col: a little beyond <hi>Chattam,</hi> and boarded the great ship called the <hi>Soveraigne,</hi> and the ship called the <hi>Prince Royall,</hi> aad left a sufficient guard in each of them, and there returned to Rochester and there quartered all that night.</p>
+               <p>On Wednesday being Bartholmevv day, before vve marched forth some of our souldiers (remembring their Protestation which they tooke) went to the Cathedrall about 9. or 10. of the clock, in the midst of their super<g ref="char:EOLhyphen"/>stitious worship, with their singing men and boyes, they (ovving them no reverence) marched up to the place where the Altar stood, and staying awhile, thinking they vvould then have eased their worship, and demanded a reason of their posture, but seeing they did not, the soul<g ref="char:EOLhyphen"/>diers could not forbeare any longer to vvait upon their pleasure, but vvent about their vvorke they came for. First they removed the Table to its place appointed, &amp; then tooke the seate which it stood upon being made of deale board, having two or three steps to goe up to the Altar, &amp; brake that all to pieces, it seems the Altar was so holy, that the ground was not holy enough to stand up<g ref="char:EOLhyphen"/>on: This being done, they pluckt down the rails, and left them for the poore to kindle their fires; and so left the Organs to be pluckt downe till we came back again, but it appeared before we came back they tooke
+<pb n="6" facs="tcp:112451:4"/> them downe themselves. When this work vvas finished. we then advanced towards <hi>Maidstone,</hi> but in the midst of our way we came to Sir <hi>Peter Recaults</hi> house, a place where Sir <hi>Edward Deering</hi> and the rest of that faction met concerning the set<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing of the Commission of <hi>Array,</hi> we found Sir <hi>Peter</hi> but not Sir <hi>Edward</hi> in his house, wee found and brought away with him in and about his Coach good store of money and a trunke full of Plate, which was discovered by one of his maids, which when the old Lady heard who discovered it, shee threatned to be the death of her; whereupon our Col: Commanded her to be brought away; and carried in the coach where our engins was, and so shee was preserved from that ac<g ref="char:EOLhyphen"/>cident. The foure horses which drew Sir <hi>Peter</hi> to <hi>Vpnall</hi> Castle to keepe the L. <hi>Roper</hi> company, were afterwards employed in service for the safety of the King and Parl: but before we employed the horses or the coach in such a service, we brought the coach &amp; 4. horses that night to <hi>Maidstone</hi> with us, and whilst we were busie about setting up of our horses, the coach man got through a back way in the Inne with his coach &amp; so made an escape, and rid away so fast, that we had much adoe to overtake him, and lay hold on him, but when we had him, we bound him with match, and brought him back to <hi>Maidstone.</hi> There was another of Sir <hi>Peters</hi> Servants which gave out malignant speeches against the Parliament, which by the command of our Colonel we bound, and laid upon the hedge, with an intent to punish him, and bring him away prisoner; but that Sir <hi>Peter</hi> passed his word for his forth<g ref="char:EOLhyphen"/>comming.</p>
+               <p>This night we sallied out to Sir <hi>William Butlers</hi> house, there having some resistance shot open the door; but Sir <hi>William</hi> was not to be found, we searched the house, and found three bags of money under the ruffe of the house,
+<pb n="8" facs="tcp:112451:4"/> and another under a kettle. Whereupon our Col: demanded of one of his men servants, where the private vaults were, the fellow shewed our Col: the house of office. Afterwards we found divers muskets in the house, ready laden with bul<g ref="char:EOLhyphen"/>lets, besides halfe pikes, holper<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, bows, and other ammunition, two horses, and divers Papist books and pictures, and brought all away with us to Maidstone, and quartered there that night, where we found the malignant party shut up their shops for feare of us.</p>
+               <p>On Thursday we advanced towards Canterbury, where by the way we visited Sir <hi>Robert Dorrell,</hi> and searched his house, onely for Sir <hi>Edward D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ering,</hi> and then our company was divided; some of our souldiers sallied forth the same time to search Sir <hi>Edward Deerings</hi> house, and others to the Earl of Thanet, First when we came to Sir <hi>Edwards</hi> house, the Lady and Mr. <hi>Henry Deering</hi> made us welcome, whether it was out of feare or love we know not: and when we searched the house, we found 100. li. in money, and some ammunition, and there stayed all night. And then the other part of our company sallied forth to the Earle of Thanet, where we en<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red the house without any resistance, and search<g ref="char:EOLhyphen"/>ed, where we found good store of Ammunition, both pikes, armour, head-pieces, swords, gunpowder, bullets, and match, but not one Musket. When we had done searching, we quartered that night in the house, in a faire kitchen, by a good fire, there we had such provision as the house could afford.</p>
+               <p>The next morning being Friday, (we were glad when we saw the light ap<g ref="char:EOLhyphen"/>peare, because we had but hard lodging, some in chairs, and the rest upon the dresser boords, except one or two who got into a bed) our Col: sent a wagon to be loaden with the Ammunition. When that was done, we gave full satisfaction for what provision we had, and then mounted upon our horses, and marched a<g ref="char:EOLhyphen"/>way with the waggon to <hi>Ashford,</hi> where we met the rest of our company, and there we bay<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed for an houre or two, which time the bells rung for joy. Then we advanced towards <hi>Canterbury,</hi> but before we came thither, our company againe was divided, one part went forward, and the rest came after with the waggon. It was night before we got to <hi>Canterbury</hi> with our waggon, where we met with the rest of our company, and were all very joyfully entertained, with such respect, that the people shouted for joy at our first entrance, and there we quartered that night.</p>
+               <p>On Saterday morning before we departed, some of our souldiers visited the great Cathedrall, and made havock of all their Popish reliques, and got into the shriving roome, where they took away a whip which whipt the Papists at some certaine time of the yeere. When they had done their pleasure, we all marched to <hi>Dover,</hi> and came thither by 3. or 4. a clock in the afternoone, and when we were entring into the towne, the Castle welcomed us in with 3. volley shot of Ordnance charged with Bullets, which sang sweetly over our heads, for the town, yet stood in a valley. We being entred we were not welcome by most of the town, yet we cared not for that, so long as we had money to pay for what we wanted: there we searched onely the houses of those who were malignants, where we found good store of money and ammunition. But strangers that sojourned there, wee medled not with them, onely we took from our home-spun enemies, and quarte<g ref="char:EOLhyphen"/>red there all Sabbath day. And while we lay there, a false relation of our pro<g ref="char:EOLhyphen"/>ceedings w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> sent to London, bearing date the 29. Aug.</p>
+               <p>On Munday morning being the 29. of Aug. Col: <hi>Sands</hi> took possession of Deale Castle, and left a sufficient guard in it for defence of the King and Parl. other part of our company went aboard of the <hi>Lord of Warwicks ship,</hi> where his
+<pb facs="tcp:112451:5"/> Lordship most royally and joyfully entertained us, being very glad to see us.</p>
+               <p>The same day some of our company sallied out to the deane of <hi>Canterbury</hi> where we found <hi>Borgraves</hi> son a swearing damming fellow; we found no Arms but onely some Gun-powder which was hid in the top of the house. After the searching the Deanes house, we marched to Colonell <hi>Hamonds</hi> Unkle, whom we brought along with us to Dover, and there left him prisoner in the Gaole.</p>
+               <p>On Tuesday our company was divided; one part marched towards Canterbu<g ref="char:EOLhyphen"/>ry again, and the other towards Hide, where we visited a Castle betwixt Dover and Hide, and so quartered that night at Hide.</p>
+               <p>
+                  <hi>On Wednesday, part of our company advanced towards</hi> Feversham <hi>where we searched by the way at</hi> Bouton <hi>a Papists house, but found nothing. Than wee came to</hi> Feversham, <hi>and in Preston streete at the entera ce of the Towne wee searcht another Papists house, where we found a coslet and other old furniture, and a great Crosse, and then we marched into the Towne, where we were loving<g ref="char:EOLhyphen"/>ly entertained by the trained bond, who gave us two valley shots, and we an<g ref="char:EOLhyphen"/>swered them the like and so departed and ma ched to</hi> Linkstead <hi>to the Lord</hi> Ropers <hi>house and searched it, where we found no Armes but some plate, to the value of</hi> 50. <hi>or</hi> 60. <hi>pounds worth: we were kindely entertained and so departed.</hi>
+               </p>
+               <p>
+                  <hi>On Thursday morning being the</hi> 1. <hi>Sept. before we departed, there was a Bar<g ref="char:EOLhyphen"/>ber and a Tapster expressing inveterate speeches against the Parl. and us His Ma<g ref="char:EOLhyphen"/>jesties good Subjects. We laid hands on them, and bound them back to back, and set them upon a ho se, and rode them through the town to our Colonel, and after that through the town again, and then slipt a halter about each of their necks, and carryed them to the gallows, and there wished them to prepare themselves, which while</hi> they <hi>were so doing, a Trumpeter (one of our own appointing) came riding Poste with a Reprieve for them, and so the halters were out, and their lives saved for the present. After this was done, we re-advanced to Maidstone, and there quartered that night.</hi>
+               </p>
+               <p>
+                  <hi>On Friday morning before we departed from thence, the town being troubled with some malignant spirits, who burned so inwardly with malice and hatred, that they could no longer forbeare, began to speak malignant words against the Par. the same night we came into the town, and abused one of our company. But the next morning we served him as we had done the others at</hi> Tenderden. <hi>Besides we took another fellow in</hi> Maidstone, <hi>who stood for the Commission of Array, who wished all their heads off that would not obey it. We produced witnesses to prove what he said, &amp; examined the witnesses before a Justice of Peace, and so brought him along with us, to be left to the Parl.</hi>
+               </p>
+               <p>This being done, and our service for that time almost expired, we returned to <hi>Rochester,</hi> again, where we marched again to <hi>Vpnall</hi> Castle, and visited the Lord <hi>Roper,</hi> &amp; Sir <hi>Peter Ricault,</hi> who made us welcome: After which time we garded them from the Castle to the Crowne at <hi>Rochester,</hi> and when order was taken for their safe conveyance by water, we stayed no longer there but mar<g ref="char:EOLhyphen"/>ched that night to Graves-end, and when the Deane of Canterbury thought all was secure and we departed, some of our company tooke him as he was go<g ref="char:EOLhyphen"/>ing to bed at the crowne in Rochester, which when he was apprehended we sent him to Graves end to be sent to London with the Lord <hi>Roper</hi> and Sir <hi>Peter.</hi>
+               </p>
+               <p>On Saturday we all met together at Dedford, and so marched home to Lon<g ref="char:EOLhyphen"/>don, where we found the welcommest place.</p>
+               <p>We are not ignorant of a blasphemous pamphlet against God, and scanda<g ref="char:EOLhyphen"/>lous against our proceedings in Kent; composed by Doct: <hi>Paske,</hi> for the doing wherof we refer him to the wisdome of the Parliament.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112451:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
